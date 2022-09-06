@@ -92,3 +92,13 @@ a1 = m = Linear regression coefficient.(slope of the line)
 #### Learning rate
 
 ![learningrate](../images/gradient2.png)
+
+
+## Simple Linear Regression
+
+If there is a single input variable (x), such linear regression is called **simple linear regression**.
+
+
+1. [Predicting CO2EMISSION using single feature called Enginesize](./simple/simple_linear_regression.ipynb)
+
+
