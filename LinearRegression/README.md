@@ -102,3 +102,8 @@ If there is a single input variable (x), such linear regression is called **simp
 1. [Predicting CO2EMISSION using single feature called Enginesize](./simple/simple_linear_regression.ipynb)
 
 
+## Multiple Linear Regression
+
+If there is multiple input variable , such linear regression called **Multiple Linear regression**.
+
+1. [Predicting CO2EMISSION using multiple features called Enginesize,cylinder,fuelconsumption_comb](./Multiple_linear_regression/multiple_linear.ipynb)
